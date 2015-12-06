@@ -1,0 +1,43 @@
+c:\users\andersonfb\documents\visual studio 2010\Projects\Chat\Chat\bin\Debug\Chat.exe
+c:\users\andersonfb\documents\visual studio 2010\Projects\Chat\Chat\bin\Debug\Chat.pdb
+c:\users\andersonfb\documents\visual studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.Form1.resources
+c:\users\andersonfb\documents\visual studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+c:\users\andersonfb\documents\visual studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+c:\users\andersonfb\documents\visual studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.exe
+c:\users\andersonfb\documents\visual studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.pdb
+c:\users\andersonfb\documents\visual studio 2010\Projects\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\obj\x86\Debug\Chat.exe
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\obj\x86\Debug\Chat.Form1.resources
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\andersonfb\Documents\Anderson\Anderson\Chat\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Breder\Documents\PROGRAMADOR\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Breder\Documents\PROGRAMADOR\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Breder\Documents\PROGRAMADOR\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Breder\Documents\PROGRAMADOR\Chat\Chat\obj\x86\Debug\Chat.Form1.resources
+C:\Users\Breder\Documents\PROGRAMADOR\Chat\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+C:\Users\Breder\Documents\PROGRAMADOR\Chat\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\Breder\Documents\PROGRAMADOR\Chat\Chat\obj\x86\Debug\Chat.exe
+C:\Users\Breder\Documents\PROGRAMADOR\Chat\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\Aluno\Desktop\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Aluno\Desktop\Chat\Chat\obj\x86\Debug\Chat.exe
+C:\Users\Aluno\Desktop\Chat\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\Aluno\Desktop\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Aluno\Desktop\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Aluno\Desktop\Chat\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Chat\Chat\obj\x86\Debug\Chat.Form1.resources
+C:\Users\Aluno\Desktop\Chat\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Chat\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+F:\Chat2\Chat\bin\Debug\Chat.exe.config
+F:\Chat2\Chat\obj\x86\Debug\Chat.exe
+F:\Chat2\Chat\obj\x86\Debug\Chat.pdb
+F:\Chat2\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+F:\Chat2\Chat\obj\x86\Debug\Chat.Form1.resources
+F:\Chat2\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+F:\Chat2\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+F:\Chat2\Chat\bin\Debug\Chat.exe
+F:\Chat2\Chat\bin\Debug\Chat.pdb
